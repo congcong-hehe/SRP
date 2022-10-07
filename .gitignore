@@ -1,0 +1,15 @@
+Library/
+
+.meta
+
+Logs/
+
+Temp/
+
+Assembly-CSharp.csproj
+
+obj/
+
+.vs/
+
+
